@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "next_weeks_new_deaths_ratio": {
+      "type": "number"
+    },
+    "new_cases": {
+      "type": "number"
+    }
+  }
+}
+
