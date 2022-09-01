@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "cumulative_recovered_new_cases_ratio": {
+      "type": "number"
+    }
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "string"
+    },
+    "new_cases_avg": {
+      "type": "number"
+    },
+    "month": {
+      "type": "string"
+    }
+  }
+}
+
+
